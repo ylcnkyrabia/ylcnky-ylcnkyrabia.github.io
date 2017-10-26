@@ -1,0 +1,21 @@
+body{
+	
+	background-color: pink;
+	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWkOXeKwY9s_Xe-TIgPC2E-YCecXfN2ZxSbeM_dTxuc2ATGZWGdA");
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: 1500px 1600px;
+	font-family: 'Comic Sans MS' , Sans, sans-serif;
+	
+}
+
+#header, #footer {
+background-color: grey;
+
+}
+
+.panel {
+	background-color: yellow;
+
+}
+
